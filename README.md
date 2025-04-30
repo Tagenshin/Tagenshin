@@ -1,6 +1,24 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Trio Anggoro**.<br>
+Umur            : 24 Tahun<br>
+Agama           : Islam<br>
+Tinggi Badan    : 165 cm<br>
+Berat Badan     : 55 kg<br>
+Status          : Belum Menikah<br>
+E-Mail	        : trioanggoro12345@gmail.com<br>
+
+**Data Pendidikan**<br>
+Sekolah Dasar	    : SD Negeri 1 Dwijaya ( 2006 – 2012 )<br>
+SMP	              : SMP Negeri O Mangunharjo ( 2012 – 2015 )<br>
+SMK	              : SMK Negeri Tugumulyo ( 2015 – 2018 )<br>
+Perguruan Tinggi	: pendidikan S1 di Universitas Bina Insan Lubuklinggau Jurusan Teknik Informatika Fakultas Ilmu Teknik Angkatan (2021)<br>
+
+**Kemampuan**<br>
+Teknologi Informasi  : Mampu mengoperasikan komputer dengan baik, termasuk penggunaan Microsoft Office dan pemanfaatan internet.<br>
+Bahasa Pemrograman   : Memiliki pemahaman dasar tentang bahasa pemrograman Python, JavaScript, dan PHP.<br>
+Bahasa               : Bahasa Indonesia aktif, baik lisan maupun tulisan.<br>
+
 
 Saya seorang **Programer**.<br>
 
