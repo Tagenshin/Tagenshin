@@ -28,7 +28,7 @@ Saya pernah mengikuti beberapa pelatihan pemrograman : <br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/trio-anggoro-166479335/) ku ya.<br>
 
-Saya juga berpengalaman menjadi tenaga adminitrasi sekolah selama 4 tahun lebih dan sampai sekerang.
+Saya juga berpengalaman menjadi tenaga adminitrasi sekolah selama 4 tahun lebih dan sampai sekarang.
 
 ### Github Statistic
 <p align="left">
