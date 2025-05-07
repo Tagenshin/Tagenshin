@@ -1,36 +1,67 @@
 # Halo semua! 
+Saya adalah lulusan terbaik dari Universitas Bina Insan Lubuklinggau, Program Studi Informatika, Fakultas Ilmu Teknik (2021–2025). Saya memiliki minat besar dalam bidang Machine Learning, Analisis Data, dan Blockchain Technology.<br>
+<br>
+Saya telah mengembangkan beberapa proyek berbasis Machine Learning, menganalisis data sentimen pengguna, serta mengimplementasikan algoritma klasifikasi seperti Naïve Bayes dan K-Nearest Neighbor. Ke depannya, saya berkomitmen untuk berkarier sebagai Machine Learning Engineer dan mengabdi di dunia pendidikan sebagai Dosen Teknik Informatika.<br>
+<br>
+Saya juga aktif mengikuti pelatihan di bidang pemrograman dan keamanan siber guna meningkatkan kompetensi profesional saya.<br>
 
-Perkenalkan nama saya **Trio Anggoro**.<br>
-Umur            : 24 Tahun<br>
-Agama           : Islam<br>
-Tinggi Badan    : 165 cm<br>
-Berat Badan     : 55 kg<br>
-Status          : Belum Menikah<br>
-E-Mail	        : trioanggoro12345@gmail.com<br>
+Pelatihan pemrograman yang saya ikuti :<br>
+Coding Camp 2025 Powered By DBS Foundation : Machine Learning Engineer<br>
+Google Cybersecurity<br>
 
-**Data Pendidikan**<br>
-Sekolah Dasar	    : SD Negeri 1 Dwijaya ( 2006 – 2012 )<br>
-SMP	              : SMP Negeri O Mangunharjo ( 2012 – 2015 )<br>
-SMK	              : SMK Negeri Tugumulyo ( 2015 – 2018 )<br>
-Perguruan Tinggi	: pendidikan S1 di Universitas Bina Insan Lubuklinggau Jurusan Teknik Informatika Fakultas Ilmu Teknik Angkatan (2021)<br>
+Kontak (Contact Info)<br>
+E-Mail : trioanggoro12345@gmail.com<br>
+Telepon: 0822-6944-1948<br>
+[GitHub](https://github.com/Tagenshin/): https://github.com/Tagenshin/<br>
+Lokasi: Musi Rawas, Sumatera Selatan<br>
 
-**Kemampuan**<br>
-Teknologi Informasi  : Mampu mengoperasikan komputer dengan baik, termasuk penggunaan Microsoft Office dan pemanfaatan internet.<br>
-Bahasa Pemrograman   : Memiliki pemahaman dasar tentang bahasa pemrograman Python, JavaScript, dan PHP.<br>
-Bahasa               : Bahasa Indonesia aktif, baik lisan maupun tulisan.<br>
+Pengalaman Kerja (Experience)<br>
+Tenaga Administrasi Sekolah<br>
+PKBM Orange, Muara Kelingi<br>
+2018 – Sekarang<br>
+Mengelola data peserta didik dan administrasi pendidikan, serta terlibat dalam proses pengusulan dan pelaporan program Indonesia Pintar (PIP).<br>
 
+Tenaga Administrasi PGRI Kabupaten Musi Rawas<br>
+~4 Tahun<br>
+Mendukung kegiatan operasional dan administrasi organisasi guru tingkat kabupaten.<br>
 
-Saya seorang **Programer**.<br>
+Pendidikan (Education)<br>
+S-1 Informatika<br>
+Universitas Bina Insan Lubuklinggau<br>
+Fakultas Ilmu Teknik<br>
+2021 – 2025<br>
 
-Saya pernah mengikuti beberapa pelatihan pemrograman : <br>
-[sertifikasi Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/SH1YLFWD8BB0).<br>
-[sertifikasi Dicoding](https://www.dicoding.com/certificates/98XWEGME0XM3).<br>
+Lulus sebagai Mahasiswa Terbaik. Fokus studi: Machine Learning, Flutter Development, Blockchain, dan Jaringan Komputer.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/trio-anggoro-166479335/) ku ya.<br>
+Keahlian (Skills)<br>
+Python<br>
+Machine Learning (Scikit-learn, TensorFlow)<br>
+Flutter & Dart<br>
+SQL & Database<br>
+Git & GitHub<br>
+Microsoft Office<br>
+Internet & Komputer Dasar<br>
+JavaScript & PHP (Dasar)<br>
+Komunikasi dan Kerja Tim<br>
 
-**Pengalaman Kerja**
-1.	Jadi Operator PGRI Kabupaten Musi Rawas -+4 Tahun
-2.	Jadi Operator Dapodik PKBM Orange Muara Kelingi -+4 Tahun
+Bahasa Indonesia aktif (lisan & tulisan)<br>
+
+Sertifikat :<br>
+Belajar Machine Learning untuk Pemula – Dicoding<br>
+Belajar Pengembangan Machine Learning – Dicoding<br>
+Belajar Analisis Data dengan Python – Dicoding<br>
+Memulai Pemrograman dengan Python – Dicoding<br>
+Belajar Dasar Visualisasi Data – Dicoding<br>
+Belajar Dasar Structured Query Language (SQL) – Dicoding<br>
+Belajar Dasar Git dengan GitHub – Dicoding<br>
+Belajar Dasar AI – Dicoding<br>
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software – Dicoding<br>
+Pengenalan ke Logika Pemrograman (Programming Logic 101) – Dicoding<br>
+Google Cybersecurity<br>
+Financial Literacy 101<br>
+Coding Camp 2025 Powered By DBS Foundation: Machine Learning Engineer<br>
+
+Jika kamu tertarik untuk terhubung, silakan kunjungi dan ikuti akun LinkedIn saya!<br>
 
 
 ### Github Statistic
