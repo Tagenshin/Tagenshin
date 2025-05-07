@@ -5,17 +5,13 @@ Saya telah mengembangkan beberapa proyek berbasis Machine Learning, menganalisis
 <br>
 Saya juga aktif mengikuti pelatihan di bidang pemrograman dan keamanan siber guna meningkatkan kompetensi profesional saya.<br>
 
-Pelatihan pemrograman yang saya ikuti :<br>
-Coding Camp 2025 Powered By DBS Foundation : Machine Learning Engineer<br>
-Google Cybersecurity<br>
-
-Kontak (Contact Info)<br>
+**Kontak (Contact Info)** <br>
 E-Mail : trioanggoro12345@gmail.com<br>
-Telepon: 0822-6944-1948<br>
-[GitHub](https://github.com/Tagenshin/): https://github.com/Tagenshin/<br>
-Lokasi: Musi Rawas, Sumatera Selatan<br>
+Telepon : 0822-6944-1948<br>
+[GitHub](https://github.com/Tagenshin/) : https://github.com/Tagenshin/<br>
+Lokasi : Musi Rawas, Sumatera Selatan<br>
 
-Pengalaman Kerja (Experience)<br>
+**Pengalaman Kerja (Experience)** <br>
 Tenaga Administrasi Sekolah<br>
 PKBM Orange, Muara Kelingi<br>
 2018 – Sekarang<br>
@@ -25,7 +21,7 @@ Tenaga Administrasi PGRI Kabupaten Musi Rawas<br>
 ~4 Tahun<br>
 Mendukung kegiatan operasional dan administrasi organisasi guru tingkat kabupaten.<br>
 
-Pendidikan (Education)<br>
+**Pendidikan (Education)** <br>
 S-1 Informatika<br>
 Universitas Bina Insan Lubuklinggau<br>
 Fakultas Ilmu Teknik<br>
@@ -33,7 +29,7 @@ Fakultas Ilmu Teknik<br>
 
 Lulus sebagai Mahasiswa Terbaik. Fokus studi: Machine Learning, Flutter Development, Blockchain, dan Jaringan Komputer.<br>
 
-Keahlian (Skills)<br>
+**Keahlian (Skills)** <br>
 Python<br>
 Machine Learning (Scikit-learn, TensorFlow)<br>
 Flutter & Dart<br>
@@ -43,25 +39,23 @@ Microsoft Office<br>
 Internet & Komputer Dasar<br>
 JavaScript & PHP (Dasar)<br>
 Komunikasi dan Kerja Tim<br>
-
 Bahasa Indonesia aktif (lisan & tulisan)<br>
 
-Sertifikat :<br>
-Belajar Machine Learning untuk Pemula – Dicoding<br>
-Belajar Pengembangan Machine Learning – Dicoding<br>
-Belajar Analisis Data dengan Python – Dicoding<br>
-Memulai Pemrograman dengan Python – Dicoding<br>
-Belajar Dasar Visualisasi Data – Dicoding<br>
-Belajar Dasar Structured Query Language (SQL) – Dicoding<br>
-Belajar Dasar Git dengan GitHub – Dicoding<br>
-Belajar Dasar AI – Dicoding<br>
-Memulai Dasar Pemrograman untuk Menjadi Pengembang Software – Dicoding<br>
-Pengenalan ke Logika Pemrograman (Programming Logic 101) – Dicoding<br>
-Google Cybersecurity<br>
-Financial Literacy 101<br>
-Coding Camp 2025 Powered By DBS Foundation: Machine Learning Engineer<br>
+**Sertifikat** <br>
+[Belajar Pengembangan Machine Learning - Dicoding](https://www.dicoding.com/certificates/98XWE1J3JXM3)<br>
+[Belajar Machine Learning untuk Pemula – Dicoding](https://www.dicoding.com/certificates/MRZMNO85RPYQ)<br>
+[Belajar Analisis Data dengan Python – Dicoding](https://www.dicoding.com/certificates/JMZVEL09JPN9)<br>
+[Memulai Pemrograman dengan Python – Dicoding](https://www.dicoding.com/certificates/GRX53JMLKZ0M)<br>
+[Belajar Dasar Visualisasi Data – Dicoding](https://www.dicoding.com/certificates/81P2L4678ZOY)<br>
+[Belajar Dasar Structured Query Language (SQL) – Dicoding](https://www.dicoding.com/certificates/2VX3KK88VXYQ)<br>
+[Belajar Dasar Git dengan GitHub – Dicoding](https://www.dicoding.com/certificates/4EXGVQJ71XRL)<br>
+[Belajar Dasar AI – Dicoding](https://www.dicoding.com/certificates/53XEDQLV9PRN)<br>
+[Memulai Dasar Pemrograman untuk Menjadi Pengembang Software – Dicoding](https://www.dicoding.com/certificates/98XWEGME0XM3)<br>
+[Pengenalan ke Logika Pemrograman (Programming Logic 101) – Dicoding](https://www.dicoding.com/certificates/6RPNR41G8X2M)<br>
+[Google Cybersecurity](https://coursera.org/share/4aa723c8c42964bd7b634d8124c6eaf9)<br>
+[Financial Literacy 101](https://www.dicoding.com/certificates/L4PQEKM87PO1)<br>
 
-Jika kamu tertarik untuk terhubung, silakan kunjungi dan ikuti akun LinkedIn saya!<br>
+Jika kamu tertarik untuk terhubung, silakan kunjungi dan ikuti akun [LinkedIn](https://www.linkedin.com/in/trio-anggoro-166479335/) saya!<br>
 
 
 ### Github Statistic
